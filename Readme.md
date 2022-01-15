@@ -1,5 +1,8 @@
 ## Form Validation with file upload 
-This is a practice class of php where we have to make form validation with file upload
+This is a practice class of php where we have to make form validation with file upload\
+
+<img src = "form.png">
+
 ```php
 
 	if(isset($_POST[ 'insert' ])){
